@@ -16,7 +16,7 @@ const LeftSection = () =>{
                     <p>I am a recent graduate with a Bachelor of Engineering in Computer Science</p>
                     <div className="my-5">
                         <h5>Contact</h5>
-                        <a className="fs-6 link link-light link-underline-opacity-0 link-underline-opacity-100-hover" href="">vishnuupadhya99@gmail.com</a>
+                        <a className="fs-6 link link-light link-underline-opacity-0 link-underline-opacity-100-hover" href="mailto:vishnuupadhya99@gmail.com">vishnuupadhya99@gmail.com</a>
                     </div>
                     <div>
                         <h5>Personal Projects</h5>
