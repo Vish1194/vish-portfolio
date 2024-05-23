@@ -5,7 +5,7 @@ const PersonalProjectSection = () =>{
     return(
         <section id="personal-projects">
         <h2>Personal Projects</h2>
-        <div class="px-lg-5">
+        <div className="px-lg-5">
             <ul>
                 <li>
                     <h4>Talent Management System (Node JS, React Js)</h4>

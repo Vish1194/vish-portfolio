@@ -5,7 +5,7 @@ const AcademicProjectSection = () =>{
     return(
         <section id="academic-projects">
         <h2>Academic Projects</h2>
-        <div class="px-lg-5">
+        <div className="px-lg-5">
             <ul>
                 <li>
                     <h4>Wildlife Detection using Deep Neural Network</h4>

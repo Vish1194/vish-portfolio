@@ -11,8 +11,8 @@ import FooterSection from "./FooterSection";
 
 const RightSection = () =>{
     return(
-        <div class="col-lg-9 offset-lg-3 right-col">
-            <div class="row pt-5 bg-grad-green">
+        <div className="col-lg-9 offset-lg-3 right-col">
+            <div className="row pt-5 bg-grad-green">
 
                 <AboutSection/>
                 <EducationSection/>
