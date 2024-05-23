@@ -1,6 +1,6 @@
 // import Pic from '../assets/image/IMG.jpg'
 import { useState } from 'react';
-import github_icon from '../assets/image/github.png'
+import github_icon from '.././assets/image/github.png'
 
 
 const LeftSection = () =>{
