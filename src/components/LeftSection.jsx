@@ -22,7 +22,7 @@ const LeftSection = () =>{
                         <h5>Personal Projects</h5>
                         <ul style={{listStyle:'none',padding:'0'}}>
                             <li><a href="https://github.com/Vish1194" className='link link-light link-underline-opacity-0 link-underline-opacity-100-hover' ><img src={github_icon} alt="Github" className='git_icon' />  My Github</a></li>
-                            <li><a href="" className='link link-light link-underline-opacity-0 link-underline-opacity-100-hover'><img src={github_icon} alt="Github" className='git_icon' />  Talent Management System</a></li>
+                            <li><a href="https://github.com/Vish1194/company_talent_management_system" className='link link-light link-underline-opacity-0 link-underline-opacity-100-hover'><img src={github_icon} alt="Github" className='git_icon' />  Talent Management System</a></li>
                         </ul>
                     </div>
                   </header>
